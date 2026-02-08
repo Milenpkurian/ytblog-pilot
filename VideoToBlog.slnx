@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="VideoToBlog.Tests/VideoToBlog.Tests.csproj" />
+  <Project Path="VideoToBlog/VideoToBlog.csproj" />
+</Solution>

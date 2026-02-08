@@ -1,0 +1,48 @@
+# .NET build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Test results
+TestResults/
+coverage.cobertura.xml
+
+# Logs
+*.log
+
+# Templates and cache
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# Ignore plan and session artifacts
+plan/
+
+# Ignore generated files
+*.generated.cs
+
+# Ignore markdown artifacts
+*.md.backup
+
+# Output folder - ignore all generated files but keep the folder
+output/*
+!output/.gitkeep

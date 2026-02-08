@@ -1,0 +1,2 @@
+# This file ensures the output folder is tracked by git
+# while all generated files in this folder are ignored
