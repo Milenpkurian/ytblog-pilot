@@ -81,7 +81,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/ytblog-pilot.git
+git clone https://github.com/Milenpkurian/ytblog-pilot.git
 cd ytblog-pilot
 
 # 2. Build the project
@@ -264,7 +264,7 @@ List comprehensions provide a concise way to create lists...
 
 ```bash
 # Clone and build
-git clone https://github.com/yourusername/ytblog-pilot.git
+git clone https://github.com/Milenpkurian/ytblog-pilot.git
 cd ytblog-pilot
 dotnet build
 
@@ -392,8 +392,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/ytblog-pilot/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/ytblog-pilot/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Milenpkurian/ytblog-pilot/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/Milenpkurian/ytblog-pilot/discussions)
 - 📧 **Email**: your.email@example.com
 
 ---
@@ -402,7 +402,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the YTBlog-Pilot Team**
 
-[⭐ Star this repo](https://github.com/yourusername/ytblog-pilot) • [🐛 Report Bug](https://github.com/yourusername/ytblog-pilot/issues) • [✨ Request Feature](https://github.com/yourusername/ytblog-pilot/issues)
+[⭐ Star this repo](https://github.com/Milenpkurian/ytblog-pilot) • [🐛 Report Bug](https://github.com/Milenpkurian/ytblog-pilot/issues) • [✨ Request Feature](https://github.com/Milenpkurian/ytblog-pilot/issues)
 
 </div>
 
@@ -594,4 +594,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For issues and feature requests, please [create an issue](https://github.com/yourusername/ytblog-pilot/issues).
+For issues and feature requests, please [create an issue](https://github.com/Milenpkurian/ytblog-pilot/issues).
