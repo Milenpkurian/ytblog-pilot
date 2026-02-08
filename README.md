@@ -9,6 +9,7 @@
 YTBlog-Pilot is a powerful .NET 10 CLI tool that converts YouTube video transcripts into well-structured, engaging blog posts using AI models like Claude, GPT, and Gemini. Perfect for content creators, developers, and bloggers who want to repurpose video content.
 
 ![Interactive Mode Demo](.github/assets/demo.png)
+
 *Interactive mode with AI model selection and multi-video support*
 
 ---
@@ -32,14 +33,17 @@ YTBlog-Pilot is a powerful .NET 10 CLI tool that converts YouTube video transcri
 
 ### Interactive Mode
 ![Interactive Mode](.github/assets/interactive-mode.png)
+
 *Step-by-step guided experience with AI model selection*
 
 ### Multi-Video Processing
 ![Multi Video](.github/assets/multi-video.png)
+
 *Process multiple videos or playlists in one go*
 
 ### Generated Output
 ![Output](.github/assets/output-example.png)
+
 *Professional blog posts with YAML frontmatter and proper formatting*
 
 ---
